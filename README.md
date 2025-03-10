@@ -8,5 +8,6 @@
 
 
 - 👋 Hi, I’m @code-breaker00
-- 👀 I’m interested in python code
-- 🌱 I’m currently learning python
+- 📜 I Im a frennch student 
+- 👀 I’m interested in python code and html
+- 🌱 I’m currently learning python and html
