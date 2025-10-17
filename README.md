@@ -14,3 +14,5 @@
 - 📜 I Im a french student 
 - 👀 I’m interested in python code and html
 - 🌱 I’m currently learning python and html css js and C#
+
+Dernière mise à jour : 17/10/2025 17:20
