@@ -15,4 +15,4 @@
 - 👀 I’m interested in python code and html
 - 🌱 I’m currently learning python and html css js and C#
 
-Dernière mise à jour : 19/10/2025 23:13
+Dernière mise à jour : 19/10/2025 23:18
