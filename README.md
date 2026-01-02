@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @ghost-off
 
 <div style="text-align: center;">
-  <a href="https://github.com/ghost-off" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghost-off&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" width="420">
+  <a href="https://github.com/gh0st-off" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=gh0st-off&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" width="420">
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-off&layout=compact&theme=gotham" width="420">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0st-off&layout=compact&theme=gotham" width="420">
   </a>
 </div>
 
